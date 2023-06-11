@@ -1,0 +1,53 @@
+{
+	"resturant-data": {
+		"welcome": {
+			"image": "circle",
+			"title": "Welcome to",
+			"description": "Sample restaurant"
+		},
+		"store": [{
+				"image": "storeimg",
+				"title": "Store Pickup",
+				"description": "Best Quality"
+			},
+			{
+
+				"image": "alwaysimg",
+				"title": "Always",
+				"description": "Delivery on Time"
+			}
+		],
+		"reservation": {
+			"image": "Reserveimg",
+			"title": "Online Reservation",
+			"description": "Table booking",
+			"button": [{
+					"btnTitle1": "Reserve a table",
+					"image": "iconimg"
+				},
+				{
+					"btnTitle2": "My Reservations"
+				}
+			]
+		},
+		"banner": {
+			"image": "bannerimg"
+
+		},
+		"promotion": {
+			"title": "Promotion Campaign",
+			"view5-1": [{
+					"image": "Excelsaimg",
+					"title": "Discount all excelsa 20% in all stores",
+					"description": "20/04/20 - 06/09/2020"
+				},
+				{
+					"image": "Libericaimg",
+					"title": "Discount all liberica 20% in all stores",
+					"description": "20/04/20 - 06/09/2020"
+
+				}
+			]
+		}
+	}
+}
